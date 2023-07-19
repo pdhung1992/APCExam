@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APCExam", "APCExam\APCExam.csproj", "{B79C2E5E-B1B6-49D3-80DD-3E4E9FC21042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79C2E5E-B1B6-49D3-80DD-3E4E9FC21042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79C2E5E-B1B6-49D3-80DD-3E4E9FC21042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79C2E5E-B1B6-49D3-80DD-3E4E9FC21042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79C2E5E-B1B6-49D3-80DD-3E4E9FC21042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
