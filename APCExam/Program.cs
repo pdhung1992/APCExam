@@ -10,7 +10,7 @@ do
     Console.WriteLine("1. Add product record");
     Console.WriteLine("2. Display all product");
     Console.WriteLine("3. Delete product by ID");
-    Console.WriteLine("4.Exit");
+    Console.WriteLine("4. Exit");
     Console.Write("Please choose an option: ");
     string sChoice = Console.ReadLine();
 
